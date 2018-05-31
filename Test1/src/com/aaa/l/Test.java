@@ -7,6 +7,7 @@ public class Test {
 		System.out.println("在Ldls中的操作");
 		System.out.println("ldl操作");
 		System.out.println(111);
+		System.out.println(222222);
 	}
 
 }
